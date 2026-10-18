@@ -1,0 +1,5 @@
+PyQt6
+psycopg2-binary
+mssql-python
+python-dotenv
+rich
